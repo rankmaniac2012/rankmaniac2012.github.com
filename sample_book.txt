@@ -1,0 +1,2028 @@
+
+
+--------------------------------------- 1
+
+ 
+SEO Secrets 
+V1.3 
+All you need to know to reach the top of 
+the search engines 
+
+
+
+--------------------------------------- 2
+
+Copyright Information 2 
+ 
+ 
+© Copyright 2005 Divine Write Copywriting Pty Ltd 
+ 
+The right of Divine Write Copywriting Pty Ltd to be identified as author and copyright owner of 
+this work is asserted by Divine Write Copywriting Pty Ltd in accordance with Australian 
+copyright laws as determined by the Australian Copyright Council. 
+Copyright extends to any and all countries in which this publication is purchased and/or viewed 
+and/or read. 
+All rights reserved. No part of this publication may be reproduced or transmitted, in any form 
+by any means without the prior written permission of the author, nor be otherwise circulated in 
+any form of binding or cover other than that in which it is published and without a similar 
+condition being imposed on the subsequent purchaser. 
+The purchaser of this publication indemnifies Glenn Murray and Divine Write Copywriting Pty 
+Ltd and its directors, officers, employees and agents from and against all losses, claims, 
+damages and liabilities which arise out of any use of this publication and/or any application of 
+its content. 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 3
+
+Table of Contents 3 
+Table of Contents 
+Introduction....................................................................................6 
+About the Author.............................................................................7 
+Step 1  Understand what SEO means.............................................8 
+A little about search engines.........................................................8 
+Search engine results.....................................................................8 
+How search engines decide what appears in the natural search results..9 
+So what is SEO?.............................................................................9 
+Keywords......................................................................................9 
+Links to your site..........................................................................10 
+Chapter Summary........................................................................10 
+Step 2  Submit your site to Google...............................................11 
+How to submit your site to Google...............................................11 
+How to submit your site to other search engines.........................12 
+Do I need to submit my site to other search engines?.......................12 
+Chapter Summary........................................................................13 
+Step 3  Choose your keywords.....................................................14 
+Single Keyword v Keyword Phrases.............................................15 
+Develop a keyword strategy..........................................................15 
+Chapter Summary........................................................................15 
+Step 4  Optimize Your Website for Search Engines......................17 
+Optimizing your web copy...........................................................17 
+What should the wordcount of my pages be?...................................17 
+How many times should I use a keyword?.......................................18 
+What if I want to target more than one keyword?.............................18 
+Where should I use my keywords?.................................................18 
+Optimizing your HTML code.........................................................20 
+Optimizing your site structure.....................................................22 
+Multiple keywords........................................................................22 
+Link paths...................................................................................22 
+Site map.....................................................................................23 
+Optimizing your web construction...............................................23 
+Dos&.........................................................................................24 
+Donts&......................................................................................24 
+Redesigning an existing site...........................................................25 
+Paying an SEO company to optimize your site.............................25 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 4
+
+Table of Contents 4 
+Chapter Summary........................................................................25 
+Step 5  Generate links back to your site.......................................27 
+How do I generate lots of ideal links?.........................................27 
+Add your site to DMOZ & Yahoo Directories.....................................28 
+Check where your competitors links are coming from.......................28 
+Article PR - Write and submit articles for Internet publication.............29 
+Submit your site to local and industry directories.............................32 
+Look for link partners....................................................................33 
+How long will it take?..................................................................34 
+Is it possible to generate links too fast?......................................34 
+Paying an SEO company to generate links for you.......................34 
+Chapter Summary........................................................................35 
+Step 6  Monitor your progress......................................................36 
+Monitor how many links youre generating..................................36 
+Monitor whos linking to your site...............................................37 
+Monitor your ranking...................................................................37 
+Manually.....................................................................................37 
+Automatically...............................................................................37 
+Chapter Summary........................................................................38 
+Conclusion.....................................................................................39 
+Frequently Asked Questions..........................................................40 
+Q: Why are search engines important to me?............................40 
+Q: How do search engines decide on their rankings?................40 
+Q: Can't I just pay for a high ranking?.......................................40 
+Q: How do I get a high ranking?................................................41 
+Q: What is search engine optimization (SEO)?..........................41 
+Q: What is link popularity?........................................................41 
+Q: Are some links better than others?.......................................42 
+Q: How do I get lots of links back to my site?...........................42 
+Q: What do you think is the best way to get lots of links?.........42 
+Q: How do I write a good article PR piece?................................43 
+Q: How do I get a high ranking using free reprint content?.......43 
+Q: How long does it take to get a high search engine ranking?.43 
+Q: What is the Google Sandbox, and is it real?..........................43 
+Q: What is the Google Dampening Link Filter, and is it real?.....43 
+Q: What SEO companies should I be wary of?...........................43 
+Q: What tools can you recommend?..........................................43 
+Q: I'm confused about all the terms used in SEO, can you help?44 
+Q: What is keyword analysis?....................................................44 
+Q: Do I need to submit my site to the search engines?..............44 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 5
+
+Table of Contents 5 
+Q: Should I submit my site to the search engines more than 
+once?.........................................................................................44 
+Q: What are directories and should I submit my site to them?..45 
+Glossary of Terms..........................................................................46 
+Index.............................................................................................52 
+ 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 6
+
+Introduction 6 
+Introduction 
+If youre like most people, the term search engine optimization will mean very little. Either 
+that or it just means expense! But it doesnt have to be that way&  
+If you feel like youre standing in a dark room handing money to strangers to get you in the 
+search engines, then this e-book is written just for you. 
+This e-book is written by a business owner for other business owners, CEOs, marketing 
+practitioners, and webmasters. It explains Search Engine Optimization (or SEO) in laypersons 
+terms. It wont make you an expert, but it will give you some insight into what youre spending 
+your money on, what you should be spending your money on, and just as importantly, what 
+you shouldnt. 
+Why should you believe me? Because Ive reached the top of the search engines using the 
+very methods I advocate. Take a look at About the Author on p.7 to learn a little more about 
+me, my background, and my experience. 
+As you work your way through this e-Book, refer to the Glossary at the end if youre unsure of 
+a particular term. If you have any suggestions or feedback, or would like to be notified of 
+future updates to this book, please email me at glenn@divinewrite.com. (NOTE: If you would 
+like to make a PayPal donation to ensure that this book remains current, please visit 
+http://www.divinewrite.com/seosecrets.htm .)  
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 7
+
+About the Author 7 
+About the Author 
+Glenn Murray is a professional copywriter, specializing in copy for websites, search engines, 
+and print materials. Using the methods described in this e-book, Glenn has achieved a page 1 
+worldwide ranking on Google.com for his website www.divinewrite.com for all of his 
+targeted keywords: 
+Keyword Google worldwide 
+rank 
+copywriter 1 
+SEO copywriter 1 & 2 
+website copywriter 1 & 2 
+website copywriting 1 
+advertising copywriting 2 
+advertising copywriter 4 
+Based in Sydney, Australia, Glenn has 12 years professional writing experience. Numbered 
+among his clients are some of the worlds leading companies including Toyota, Honeywell, 
+Kimberley-Clark, Safe-n-Sound, Doubleday, the Australian Government, Raine & Horne, PMP 
+Limited, Volante, and MYOB. 
+Glenn has a Bachelor of Arts in Linguistics and English Literature, and a Master of Arts in 
+International Communication. 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 8
+
+Step 1  Understand what SEO means 8 
+Step 1 - Understand what SEO means 
+Before launching straight into an explanation of SEO, lets talk a bit about search engines. 
+A little about search engines 
+Approximately 75%-80% of website traffic comes through search engines. Whats more, 
+research shows that most people dont look beyond the first 2 pages of search results. This 
+means if your website doesnt rank in the first 2 pages of the major search engines, its only 
+receiving 20-30% of its rightful traffic& and revenue. (And remember, being ranked number 1 
+when you search for your company name or web address doesnt count. You need to rank 
+highly for the words your customers use at search engines.) 
+Search engine results 
+The biggest concern for search engine companies like Google and Yahoo is finding content that 
+will bring them more traffic (and thus more advertising revenue). In other words, their results 
+must be relevant. Relevant results makes for a good search engine; irrelevant results makes 
+for a short-lived search engine. 
+Most search engines these days return two types of results whenever you click Search: 
+∑ Natural/Organic  The real search results. The results that most users are looking 
+for and which take up most of the window. For most searches, the search engine 
+displays a long list of links to sites with content which is related to the word you 
+searched for. These results are ranked according to how relevant and important they 
+are.  
+∑ Paid  Pure advertising. This is how the search engines make their money. 
+Advertisers pay the search engines to display their ad whenever someone searches 
+for a word which is related to their product or service. These ads look similar to the 
+natural search results, but are normally labeled Sponsored Links, and normally take 
+up a smaller portion of the window. 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 9
+
+Step 1  Understand what SEO means 9 
+When people use search engines to find content, they normally pay a lot more attention to the 
+natural results than the paid results because they know these results are more relevant (and 
+they know the Sponsored Links are simply ads). 
+When we talk about search engine ranking, were talking about ranking well in the natural 
+search results. This e-book does not cover Sponsored Links.  
+How search engines decide what appears in the natural search 
+results 
+IMPORTANT: You cannot pay a search engine in return for a high ranking in the natural 
+results. You can only get a high ranking if your content is seen as relevant by the search 
+engines. 
+Search engines identify relevant content for their search results by sending out spiders or 
+robots which crawl (analyze) your site and index (record) its details. Complex algorithms 
+are then employed to determine whether your site is useful and should be included in the 
+search engines search results. 
+This is where SEO comes in& 
+So what is SEO? 
+SEO stands for Search Engine Optimization. It is the art of making your website relevant and 
+important to the search engines in order to rank highly in their results. 
+The two main weapons in your arsenal are: 
+∑ Keywords (for relevance) 
+∑ Links to your site (for importance) 
+TIP: Think of the search engines as a big election. All the websites in the world are 
+candidates. The copy on your website is your campaign. The links to your website are 
+votes. The more votes (links) a candidate (website) has, the more important it is, and 
+the higher its ranking. 
+Keywords 
+Search engines send out robots or spiders to analyze your website. They look at the words 
+youve used to figure out what you do. This tells them when to display your site in their search 
+results. 
+Keywords are the first thing you need to think about when you start your SEO journey. 
+Figure out what words your customers are looking for at search engines. These words are 
+known as keywords. The idea is to frequently use these keywords in the copy of your website 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 10
+
+Step 1  Understand what SEO means 10 
+and in the HTML code behind the page. As a rule of thumb, the more frequently you use these 
+keywords, the more relevant youll be considered by the search engines, and the more likely 
+you are to appear in searches for those words.  
+For more information& 
+ 
+∑ on choosing keywords, see Step 3  Choose your keywords on p.14.  
+∑ on using keywords on your site, see Step 4  Optimize Your Website for Search 
+Engines on p.17.) 
+Links to your site 
+Links to your site tell the search engines how important your site is. They assume that if its 
+important enough for a lot of other sites to link to, its important enough for them to display at 
+the top of the rankings. 
+Links to your site (backlinks or inbound links) are the single most important factor in 
+ranking. The more links you have to your site from other sites, the better your ranking.  
+For more information& 
+ 
+∑ on generating backlinks, see Step 5  Generate links back to your site on p.27.  
+Chapter Summary 
+∑ If you have a lot of the right keywords, used in real sentences, distributed realistically 
+throughout your site, and a lot of links from other relevant sites, you stand a good 
+chance of being ranked highly. 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 11
+
+Step 2  Submit your site to Google 11 
+Step 2 - Submit your site to Google 
+As soon as you register your domain name, submit it to Google! Even if you havent 
+built your site, or thought about your content, submit your domain name to Google. In fact, 
+even if you havent fully articulated your business plan and marketing plan, submit your 
+domain name to Google. 
+Dont wait! 
+There are two reasons for this. Firstly, getting on the search engines has always taken a long 
+time for a new site. Even assuming you do everything right, it takes months before your site is 
+even indexed, and more months before it starts to rank well. As a rule of thumb, never expect 
+to rank highly within 6 months of submitting your site to Google.  
+The second reason is a recent phenomenon called Google Sandbox. Many SEO experts believe 
+that Google sandboxes new websites. Whenever it detects a new website, it withholds its 
+rightful ranking for a period while it determines whether your site is a genuine, credible, long 
+term site. It does this to discourage the creation of SPAM websites (sites which serve no useful 
+purpose other than to boost the ranking of some other site).  
+By submitting your domain name to Google as soon as you register it, youre establishing a 
+site history even if the site has no content. By the time youve built your site and developed 
+your content (and written your business and marketing plans), Google will probably see no 
+need to sandbox you.  
+If you wait until launch day to submit your site, youll spend a month or two (maybe more) 
+sitting in the sandbox watching potential customers spend their money elsewhere.  
+How to submit your site to Google 
+Dont waste money by paying someone else to submit your site to Google. Its easy! 
+Simply go to http://www.google.com.au/addurl.html, enter your URL (domain name) and a 
+few comments or keywords to describe your site. Then click Submit. Thats all there is to it. 
+You only have to do it once, and only for your top level page (i.e. Home page). 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 12
+
+Step 2  Submit your site to Google 12 
+Googles robots will then crawl your website the next time theyre out and about. Of course, 
+they dont guarantee that youll be included in their results. 
+IMPORTANT: As mentioned above, it takes quite a while for your site to appear in the search 
+engines. This is partly because the search engines are big and slow  especially when it comes 
+to new sites. It will take a minimum of 6-8 weeks before your site is indexed. 
+How to submit your site to other search engines 
+There are hundreds of search engines on the Internet. Its a lucrative business, after all! But 
+dont panic; studies suggest that the top 11 search engines account for about 90% of web 
+traffic. In other words, if you have the top 11 covered, theres no need to submit to the rest. 
+Whats more, at the time of writing, most of the top 11 dont actually accept submissions. The 
+only ones that do are Google (described above), Yahoo, and MSN. Heres a list of the available 
+submit pages.  
+∑ Yahoo  http://search.yahoo.com/info/submit.html (offers free submission) 
+∑ MSN  http://search.msn.com/docs/submit.aspx?FORM=WSDD2 (offers free 
+submission) 
+∑ Alta Vista  covered by Yahoo submission 
+∑ Netscape  covered by Google submission 
+∑ Fast / All the Web  covered by Yahoo submission 
+∑ Ask Jeeves / Teoma  at date of writing was not accepting new submissions 
+∑ Hotbot  at date of writing was not accepting new submissions 
+∑ Lycos  at date of writing was not accepting new submissions 
+∑ AOL  at date of writing was not accepting new submissions 
+∑ Looksmart  at date of writing was not accepting new submissions 
+TIP: My website http://www.divinewrite.com reached no.1 worldwide on Google.com 
+for my primary keyword, copywriter, without a dollar being spent on search engine 
+submission. I only ever submitted my site to the engines that offer free submission. 
+Do I need to submit my site to other search engines? 
+As a rule, no.  
+With an estimated 8.8 billion pages indexed (approximately 76% of the Internet), Google is 
+number 1 when it comes to search engines. Its argued that once Google has indexed your 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 13
+
+Step 2  Submit your site to Google 13 
+site, the other search engines will follow. Theoretically, you dont actually need to submit your 
+site to Google either because its always on the lookout for new content and will eventually find 
+your site of its own accord. Google actually states, Given the large number of sites submitting 
+URLs, it's likely your pages will be found in an automatic crawl before they make it into our 
+index through the URL submission form. (Google Information for Webmasters - 
+http://www.google.com.au/webmasters/1.html#A1) Personally, I wouldnt like to take the 
+risk.) 
+Having said that, it certainly doesnt hurt to submit your site to other search engines 
+(especially if you havent developed any content for it yet). 
+Chapter Summary 
+∑ Submit your domain name to Google as soon as you register it (even if you havent 
+built your site yet  or done anything else). 
+∑ Although you dont actually need to submit your site to the other search engines, you 
+may as well submit it to Yahoo and MSN, as they offer free (and simple) submissions. 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 14
+
+Step 3  Choose your keywords 14 
+Step 3 - Choose your keywords 
+The first thing you need to do when you begin chasing a good search engine ranking is decide 
+which words you want to rank well for. This is called performing a keyword analysis.  
+Keyword analysis involves a bit of research and a good knowledge of your business and the 
+benefits you offer your customers.  
+There are several websites specifically designed to make keyword analysis easier. Two 
+examples are: 
+∑ Overtures inventory tool which you can find at 
+http://inventory.overture.com/d/searchinventory/suggestion/. This tool is free and 
+very easy to use and understand, but it only tells you how many searches have been 
+conducted in the previous month for your keyword (and similar keywords). 
+∑ WordTracker which you can find at http://www.wordtracker.com. WordTracker is a 
+much more powerful tool, but you have to pay to use it (you can subscribe for a day 
+for around $10). WordTracker helps you find the most appropriate keyword for your 
+site by telling you what people are really searching for. Heres how it works& You type 
+in a word which summarizes what you do, and it tells you how many times that word 
+has been searched for in the last month. It also tells you how many other websites 
+are using that word as a keyword (i.e. targeting the same customers you are). Based 
+on this information, it rates the word. The best keywords are the ones that a lot of 
+people are searching for but which few websites are targeting. WordTracker even 
+suggests and rates alternative related words. 
+TIP: When youre using WordTracker, bear in mind that its just talking about 
+numbers, and numbers dont always tell the whole story. So dont just jump in and 
+use the best rated keywords; you need to consider your own situation. It may be the 
+case that youre forced to select a keyword phrase which is not rated particularly 
+highly. There are two situations in which this might happen: 
+i. Youre in a niche market with relatively few customers searching for the keyword. In 
+this situation, youll probably find it relatively easy to reach the top of the rankings, 
+but you wont generate a huge volume of traffic when you get there.  
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 15
+
+Step 3  Choose your keywords 15 
+ii. A lot of your competitors are targeting your keyword (its hotly contested) but its the 
+only one you can use. If you target it, youll just have to work a bit harder on your 
+backlinks in order to rank highly. When theres a lot of competition for a keyword, its 
+likely that the traffic payoff is good once you reach top. 
+Single Keyword v Keyword Phrases 
+Generally speaking, youre better off targeting phrases, not single words. For most businesses, 
+theres simply too much competition for single keywords.  
+For instance, if youre in computer sales, your normally wouldnt choose computers as your 
+keyword. Go to Google and search for computers and youll see why& There are nearly 200 
+million results and the top rankings are dominated by the multi-nationals (at the time of 
+writing, Apple and Dell). Whats more, research shows that customers are becoming more 
+search-savvy  theyre searching for more and more specific strings. Theyre learning that by 
+being more specific, they find what theyre looking for much faster.  
+So instead of targeting computers, try to think of a more specific keyword phrase. Ask 
+yourself whats unique about your business? Perhaps you sell cheap second hand computers? 
+Then why not use cheap second hand computers as your keyword phrase? This way, youll 
+not only stand a chance in the rankings, youll also display in much more targeted searches. In 
+other words, a higher percentage of your sites visitors will be people looking to buy cheap 
+second hand computers (as opposed to people after brand new computers, people researching 
+the history of the computer, and people trying to figure out how they can use a computer to 
+bath their dog!). 
+Develop a keyword strategy 
+Also, think about developing a keyword strategy. If you start out targeting a very specific 
+keyword phrase as described above, make sure it includes the more generic  hotly contested 
+ single keyword. For example, youll notice that the keyword phrase above, cheap second 
+hand computers includes the single keyword computers. This way, youre really targeting 
+both at once. As your sites importance (or PageRank) and search engine presence increases, 
+youll start to rank for the single word as well. In time, youll start ranking well for computers 
+even though youre only actively targeting cheap second hand computers.  
+TIP: Google PageRank (PR) is how Google scores a websites importance. It gives all 
+sites a mark out of 10. By downloading the Google Toolbar (from 
+http://toolbar.google.com), you can view the PR of any site you visit. 
+Chapter Summary 
+∑ Find out what words your customers are searching for and make them your keywords.  
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 16
+
+Step 3  Choose your keywords 16 
+∑ Use keyword phrases instead of single keywords, but develop a long term keyword 
+strategy which will increase your ranking for hotly contested single keywords even as 
+you target your specific keyword phrase. 
+ 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 17
+
+Step 4  Optimize Your Website for Search Engines 17 
+Step 4 - Optimize Your Website for Search 
+Engines 
+Once youve figured out what words your customers are using at the search engines, you need 
+to use those words frequently on your site and in the right places  both within your copy and 
+within your HTML code (HTML meta tags). This is a big part of what is known as optimizing 
+your website for search engines. There are also some site structure  or information 
+architecture  and web design considerations (discussed below). 
+TIP: When you optimize your website for a particular word, youre essentially telling 
+the search engines to include you in the results when people search for that word. 
+(How high up the rankings you appear depends largely on the number of links back to 
+your site there are.) 
+For more information& 
+ 
+∑ on generating backlinks, see Step 5  Generate links back to your site on p.27.  
+Optimizing your web copy 
+The trick to optimizing your copy is using the most important keywords frequently and in the 
+right places without compromising the readability of your copy. But how do you define 
+frequently? And what are the right places? What if you want to target a few different 
+keywords? And for that matter, what should the wordcount of my pages be? Below are a few 
+tips which will help you out. 
+What should the wordcount of my pages be? 
+Youll hear a lot about the importance of a lot of content. While I definitely agree that content 
+is king, there is no need to write volumes. You can reach the top of the search engines with a 
+page wordcount of between 100-1000. Below 100 is probably too little for the search engines. 
+Above 1000 is definitely too much for your visitors. Certainly dont be intimidated into writing 
+pages and pages of copy for your home page (or any other page where short, succinct copy is 
+required). 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 18
+
+Step 4  Optimize Your Website for Search Engines 18 
+How many times should I use a keyword? 
+You dont want to fill every page up with every keyword youre targeting. This simply dilutes 
+your sites relevance and reduces readability. Search engines and visitors alike will object; the 
+search engines will see your site as spam, and visitors to your site will find it hard to read (if 
+not meaningless).  
+A good rule of thumb is to aim for a site-wide average keyword density of around 2% 
+(measured using LiveKeywordAnalysis - http://www.live-keyword-analysis.com). Density is a 
+measure of frequency in relation to the total wordcount of the page. So if your page has 200 
+words, and your keyword phrase appears 10 times, its density is 5%. 
+When you actually try to do this, youll see that 2% isnt easy to achieve. The easiest way to 
+do it is to be specific. As you write every sentence, ask yourself, Could I be more specific?  
+For example, dont just say our computers or our products; ask yourself if you can get 
+away with saying our cheap second hand computers. Similarly, dont say things like with our 
+help; instead, say with the help of our cheap second hand computers. Once you get the 
+hang of it, youll find there are more than enough opportunities to replace a generic term with 
+your keyword phrase. 
+Obviously, theres a bit of an art to it. Sometimes it ends up just sounding like youre 
+repeating your keyword phrase over and over again. If this happens, you may just need to 
+restructure the sentence or paragraph. Remember, your site reflects the quality of your 
+product or service. If your site is hard to read, people will infer a lot about your offering& 
+Readability is all-important to visitors. And after all, its the visitors who buy your product or 
+service, not the search engines. 
+NOTE: You dont need to be paranoid about density. You can have some pages which have a 
+high density, and some which have a low density. 
+What if I want to target more than one keyword? 
+Its best to only target one keyword per page. If you try to target more, your keywords will be 
+competing against each other, diluting each others impact. If you need to target more than 
+one keyword, simply create a page for each.  
+For example, divide your Second Hand Computers site into separate pages for Macs and PCs, 
+and then segment again into Notebooks, Desktops, etc. This way, youll be able to incorporate 
+very specific keyword phrases into your copy (e.g. For your Macs page, focus on cheap 
+second hand macs. For the PCs page, focus on cheap second hand pcs, etc.) 
+(See Link paths on p.22 for information on using text links between these pages.) 
+Where should I use my keywords? 
+When assessing what your website is about, search engines pay close attention to the words 
+you use in your text links and headings. So make sure your links and headings are keyword 
+rich. 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 19
+
+Step 4  Optimize Your Website for Search Engines 19 
+Using keywords in links 
+When you link from one page to another, try to use your target keyword as the link text (the 
+part thats normally blue and underlined). For example, on your Cheap Second Hand Macs 
+page, you could include a text link to Cheap Second Hand PCs. 
+IMPORTANT: Search engines and humans like different things when it comes to links. 
+Search engines like to see your keywords used toward the top of the page. So if youre 
+using keywords in your links, it makes sense that you put the links at the top of the page. 
+Unfortunately, humans tend to find this distracting. And because they start clicking on links 
+before theyve finished reading the whole page, they become easily lost and dont grasp 
+the intended message. In most cases, visitors prefer a text link at the bottom of the page.  
+But there is a solution; if you have links within the main body of your copy, simply make 
+them unmarked (i.e. remove the blue font colour and the underlining). To do this, include 
+the following in your CSS file: 
+<style type="text/css"> 
+<!-- 
+a {text-decoration: none;} 
+--> 
+</style> 
+Then format the HTML of each link as follows: 
+As well as providing cheap second hand Macs, we sell high quality <a href="pcs.htm" 
+style="text-decoration:none"><font color="#000000">cheap second hand pcs</font></a>. 
+Using keywords in headings 
+Just as customers rely on headings to scan your site, so to do search engines. This means 
+headings play a big part in how the search engines will index your site. Try to include your 
+keyword phrase in your headings. In fact, think about inserting extra headings just for this 
+purpose. Generally this will also help the readability of the site because it will help customers 
+scan read. 
+For example, if you have a page detailing the benefits of cheap second hand computers, you 
+could break it up into logical sections with the following headings. 
+The cost benefits of cheap our second hand computers 
+The technical benefits of our cheap second hand computers 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 20
+
+Step 4  Optimize Your Website for Search Engines 20 
+The support benefits of our cheap second hand computers 
+Using keywords at the start of the page 
+Many SEO experts believe that the search engines see words at the start of a page as more 
+representative of what your site is about than words at the end (i.e. prominence). So its a 
+good idea to make sure you use your keywords toward the start of each page.  
+Optimizing your HTML code 
+Within the HTML code behind your page, there are things call meta tags. These are short 
+notes within the header of the code which describe some aspects of your page to the search 
+engines. Although there is some debate over how important meta tags are when it comes to 
+SEO, its generally agreed that they shouldnt be ignored.  
+Whether youre building your website yourself, or youre getting a web designer to do it, its a 
+good idea to understand the basics. There are four main meta tags you need to consider: 
+Tag name How it should look in the code Explanation 
+Title <title>Cheap second hand The title is the most important of the 
+computers - Widget meta tags. Try to use your keyword at 
+least once in the title.  
+Computers</title> 
+Also, its not just important for your 
+ranking; it also has the biggest impact 
+on your Click Thru Rate (CTR). The text 
+you put in the title will appear as the link 
+text in your Google listing  the bit that 
+people will read first and click on. Think 
+of it as an ad headline  the better it is, 
+the more people will click on it. 
+TIP: Google only displays 66 
+characters in the clickable part 
+of your listing. So try to keep 
+your Title text to a max of 66 
+characters. 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 21
+
+Step 4  Optimize Your Website for Search Engines 21 
+Tag name How it should look in the code Explanation 
+Keywords <meta name="KEYWORDS" Search engines used to look only at this 
+tag to identify a sites subject material. 
+CONTENT="cheap second hand This is no longer the case, but they still 
+computers" /> 
+pay some attention. 
+Description <meta name="DESCRIPTION" The search engines pay some attention 
+to this text when identifying your sites 
+CONTENT="Cheap second hand 
+subject material, so make sure you 
+computers for sale - keeping include your keyword at least once in the 
+your business running Description. 
+efficiently without breaking 
+Also, most search engines use this text 
+the bank." /> as their description of your site (i.e. its 
+the site snapshot that follows your link in 
+the search results). Make sure its 
+informative and compelling. Think of it 
+as the copy for an ad. 
+TIP: Google only displays about 
+160 characters including spaces. 
+So keep your Description text to 
+a max of 160 characters. 
+Alt <img src="filename.gif" The Alt tag is designed to help visually 
+alt="Cheap second hand impaired people use the World Wide Web 
+(WWW). They use software to read out 
+computer in use" 
+loud the content of your website. When 
+title="Cheap second hand the software encounters a picture, it 
+computer in use"> looks for the Alt text to learn what the 
+picture is, then reads that text out loud. 
+The Alt tag is relatively important to 
+search engines because they assume 
+that your pictures have something to do 
+with the subject material of your site. 
+But like the visual aid software, they 
+cant actually see the picture, so they 
+look at the Alt text as well. Try to include 
+your keyword at least once in your Alt 
+text. 
+You can use the same meta tags on each page, or you can make them unique. It all depends 
+on how many keywords youre targeting. If youre targeting a different keyword in the copy of 
+each page, your meta tags for each page will be unique (i.e. youll target that pages keyword 
+within these meta tags). 
+TIP: If you have any high ranking competitors, take a look at the way theyve done 
+their meta tags, and follow their lead. You already know they rank highly, so chances 
+are theyve done a good job. 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 22
+
+Step 4  Optimize Your Website for Search Engines 22 
+Optimizing your site structure 
+When structuring the information on your website, there are two main aspects you need to 
+consider: 
+∑ Multiple keywords 
+∑ Link paths 
+∑ Site map  
+Multiple keywords 
+Its good practice to structure your site around the keywords you want to target (i.e. create a 
+separate page for each keyword). 
+For more information& 
+ 
+∑ on structuring pages around keywords, see What if I want to target more than one 
+keyword? on p.18.  
+Link paths 
+For search engine spiders, text links are like doorways from page to page and site to site. This 
+means websites are generally better indexed by search engines if their spiders can traverse 
+the entire site using text links. If your site is simple, you can simply link each page to every 
+other page using text links at the bottom of the page. But if your site is complex, this is 
+impractical. Instead, youll need to create a hierarchical structure and link top to bottom and 
+left to right using text links (assuming this doesnt detract from the usability of your site). 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 23
+
+Step 4  Optimize Your Website for Search Engines 23 
+ 
+Figure 1 Text Link Path Hierarchy 
+NOTE: In addition to being kind to search engine spiders, this approach allows you to target 
+one keyword phrase per page. 
+Site map 
+You should also use a site map to link all of your pages together. A site map is a single page 
+which contains a list of text links to every page in the site (and every page contains a text link 
+back to the site map). Think of your site map as being at the center of a spider-web. 
+TIP: Site maps are used by both search engine spiders and human visitors, so 
+remember to make it user-friendly. Try using bolding and indenting to represent your 
+site hierarchy. See http://www.divinewrite.com/site.htm for an example. 
+Optimizing your web construction 
+Search engine spiders and robots dont see websites the way you and I do. They require your 
+site to be designed a particular way. If you dont observe a few rules of thumb, you can 
+severely hamper your search engine presence.  
+Following is a list of the main things you need to be aware of. There are quite a few more, but 
+these are the most important ones. This list will be most useful if your web designer hasnt had 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 24
+
+Step 4  Optimize Your Website for Search Engines 24 
+a lot of experience with SEO. If you engage an experienced SEO web designer, theyll already 
+know all the issues (far more than are listed here). 
+Dos& 
+∑ Design your site in HTML  i.e. HTML based copy and headings and text based links at 
+the base of each page as per existing site  
+∑ Use static URLs  
+∑ Use standard rollovers and/or CSS formatting for navigation menu 
+∑ Create a robots.txt file. This file is used to inform the search engine spider which 
+pages on a site should not be indexed (check out 
+http://www.123promotion.co.uk/tools/robotstxtgenerator.php for an automated one).  
+∑ Alternatively, you can do a similar thing by placing tags in the header section of your 
+HTML for search engine robots/spiders to read. These tags are as follows: 
+o <meta name="ROBOTS" CONTENT="ALL" /> tells the spiders to crawl and 
+index your entire site 
+o <meta name="ROBOTS" CONTENT="NONE" /> tells the spiders not to index 
+anything.  
+o <meta name="ROBOTS" CONTENT="NOINDEX,FOLLOW" /> says dont index this 
+particular page, but follow its links to other pages (e.g. for use on secure or 
+private pages).  
+o <meta name="ROBOTS" CONTENT="INDEX,NOFOLLOW" /> says to index the 
+page but not follow its links. 
+∑ Create a 404 error handling page, and place a sitemap on the 404 page. 
+∑ Use absolute links (not relative links). 
+Donts& 
+∑ Dont embed your copy within a graphic  
+∑ Dont use frames 
+∑ Dont use internal JavaScript or Flash  
+∑ Dont use "&id=" as a parameter if you want maximal Googlebot crawlage (many sites 
+use "&id=" with session IDs that Googlebot usually avoids urls with that parameter) 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 25
+
+Step 4  Optimize Your Website for Search Engines 25 
+Redesigning an existing site 
+If youre redesigning an existing site, make sure you pay close attention to your file structure. 
+If you move one of your pages from one directory to another, its address will change.  
+E.g. If you move your Cheap Second Hand Macs page (CheapSecondHandMacs.htm) from 
+&Pages\Products to &\Pages\Products\Macs, its address will change from 
+http://www.MadeUpWidgetComputers.com/pages/products/CheapSecondHandMacs.htm to 
+http://www.MadeUpWidgetComputers.com/pages/products/Macs/CheapSecondHandMacs.htm. 
+This change will mean that any links to the page from other websites will no longer work. It is 
+vital that you do not let this happen. Remember, backlinks are the key to a high ranking.  
+There are two solutions to this problem: i) Dont change your directory structure; or ii) If you 
+DO change your directory structure, make sure you do 301 redirects from the old pages to the 
+new ones. (Your web designer will know what youre talking about when you instruct them to 
+use 301 redirects.) 
+Also, if your site already has a decent ranking (or youve worked hard on your meta tags and 
+youre happy with them), make sure your web designer doesnt change your meta tags.  
+Paying an SEO company to optimize your site 
+If you decide to pay an SEO company to optimize your site for you, always ask them exactly 
+what they will be doing. Ask them what keywords they will be targeting, and how will target 
+them. There are no secret methods, so if they can't or won't tell you, DO NOT engage them. 
+There are also some companies which will make grand claims about top 10 rankings in a week, 
+but don't specify which keywords you will rank highly for. Instead of ranking highly for the 
+words that your customers are searching for, you end up ranking highly for extremely obscure, 
+meaningless keyword phrases like, "red brochure book printing in Jamaica". 
+Also, always be clear in your own mind on exactly what you're paying for. Remember that 
+there are two parts to obtaining a high ranking: optimizing your site, and generating links back 
+to your site. Always get your SEO company to explain exactly which part(s) they will do for 
+you, and how they plan to do it. 
+Chapter Summary 
+∑ Use your keyword frequently, but not too frequently. Go for a site-wide average 
+keyword density of around 2%. 
+∑ Only target one keyword per page (unless there is very little competition for your 
+keywords). 
+∑ If you need to target more than one keyword, create a new page for each. 
+∑ Use keywords in links and headings. 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 26
+
+Step 4  Optimize Your Website for Search Engines 26 
+∑ Try to use keywords more often at the start of the page than at the end. 
+∑ Use your keywords in the Title, Description, Keywords, and Alt meta tags. 
+∑ Structure your site around your keywords. 
+∑ Ensure spiders can traverse your entire site via text links. 
+∑ Create a text based site map which links to every page (and which every page links 
+to) via text links. 
+∑ If your web designer is not an SEO expert, make sure you provide them with some 
+optimization rules. 
+ 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 27
+
+Step 5  Generate links back to your site 27 
+Step 5 - Generate links back to your site 
+Links are the single most important aspect of SEO. Generally speaking, the more links you 
+have back to your site, the higher your ranking will be. 
+Of course, nothing is ever that simple. There are links, and there are links. Before launching 
+into a discussion about the best ways to generate links, lets first discuss what kind of links 
+you should be trying to generate. 
+When deciding whether to display your site in its search results, a search engine looks to see if 
+youre part of a credible network of related sites. This means that the ideal kind of links are 
+those that: 
+∑ come from relevant sites (sites which use the same keywords); 
+∑ come from important sites (have a high ranking); 
+∑ include your keyword as part of the visible link text; 
+∑ include varying link text (not the same link text each time); and 
+∑ come from a page that links to few other sites. 
+When a search engine sees a link which satisfies most or all of these conditions, it says, Hey, 
+this site must be credible and important, because others in the same industry are pointing to 
+it.  
+How do I generate lots of ideal links? 
+There are many possible ways to generate links. Some are dubious (like auto-generation 
+software, and sites set up by webmasters simply to host links to their other sites) and I wont 
+be discussing them here. Others, like those discussed below, are legitimate.  
+NOTE: Link generation is an ongoing (often tedious) task. You need to be dedicated and 
+systematic. In other words, you need a strategy. Take a look through the link generation 
+alternatives discussed below to see what suits you best. Then put your thinking cap on and get 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 28
+
+Step 5  Generate links back to your site 28 
+creative. Its a new and very exciting field; there are undoubtedly many undiscovered ways to 
+generate links. This chapter is just a starting point. 
+Add your site to DMOZ & Yahoo Directories 
+The first thing you should do is add a link in the following two directories: 
+∑ DMOZ Open Directory Project (http://www.dmoz.com/add.html)  &the largest, 
+most comprehensive human-edited directory of the Web. It is constructed and 
+maintained by a vast, global community of volunteer editors. DMOZ does not charge 
+for submissions. NOTE: This is the same as the Google Directory. 
+∑ Yahoo Directory (https://ecom.yahoo.com/dir/submit/intro/)  Yahoo charges for 
+submissions (at the time of writing, the submission fee was USD$299). 
+The search engines regularly crawl these directories in search of new links, and they value 
+these links quite highly (largely because the directories are human-edited). 
+Check where your competitors links are coming from 
+Next, check who is linking to your high ranking competitors. This method takes a long time, 
+but youll be surprised where some of their links come from. To check on the links of your 
+competitors: 
+STEP 1) Go to Google and search for your keyword.  
+STEP 2) Make a note of the top 5 competitors who appear (write down their 
+domain name). 
+STEP 3) Return to Google and search for the first domain name in the list (i.e. 
+type www.competitorsdomainname.com in the search field). 
+STEP 4) Google will then display a screen which says, Google can show you the 
+following information for this URL: At the bottom of the list of option is 
+Find web pages that contain the term 
+"www.competitorsdomainname.com"". Click on this option. 
+STEP 5) Google will display all the pages it can find that link to your competitors 
+website. (TIP: If there are many results, bookmark the search results 
+page as this process will take a long time  possibly months.) 
+STEP 6) Visit each page (TIP: Right click on the first result and select Open in 
+New Window. By opening a separate window to see the page, you wont 
+lose your search results page.) 
+STEP 7) Try think of a way to get a link to your website on the same page (TIP: 
+Avoid sending them an email as webmaster receive a lot of SPAM and 
+your email will likely go unnoticed. Try calling them instead.) 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 29
+
+Step 5  Generate links back to your site 29 
+STEP 8) Repeat for each of your top 5 ranking competitors. 
+TIP: In the list of results, the sites which appear high up in the list of results are 
+likely to have a higher Google PageRank (PR  see Glossary) than the sites which 
+appear toward the end of the list. You should be more interested in obtaining links to 
+sites with a high PR (assuming theyre also relevant). 
+Article PR - Write and submit articles for Internet publication 
+Next, write articles and do some article PR! Ive always found this to be the best way to 
+generate inbound links. Write helpful articles and let publishers of newsletters and ezines use 
+them for free  on the proviso that they link back to your site.  
+People who publish ezines and newsletters are always hungry for quality content. And there 
+are many websites out there dedicated to giving them just that. If you submit a well written, 
+relevant, helpful article to one of those sites, you can have thousands of newsletter publishers 
+ready to snap it up. Then you just sit back and watch the links multiply! 
+TIP: The article PR method is beneficial in other ways too. Readers of your article will 
+see that you know what youre talking about, and because youre published, theyll 
+see you as an authority. Youll find web traffic and requests for quotes increase after 
+every article. 
+Heres how article PR works& 
+STEP 1) Youre an expert in your field so you possess knowledge that other people 
+want.  
+STEP 2) You write a helpful article  sharing your hard-earned knowledge and 
+expertise (without compromising your income stream). 
+STEP 3) You submit your article to recognized and highly trafficked Article 
+Submit sites on the World Wide Web. 
+STEP 4) Publishers of online newsletters, ezines, etc. gather content from these 
+sites for free. 
+STEP 5) Helpful, well written articles are snapped up by thousands of publishers 
+from all around the world in virtually every industry. 
+STEP 6) The only condition is that they must publish the article with a functioning 
+link to your site. 
+STEP 7) If 300 people publish your article, you get 300 links back to your site. 
+And the best part is that every link is relevant (and you even get to 
+choose the link text!) 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 30
+
+Step 5  Generate links back to your site 30 
+Article PR FAQs 
+Below are some FAQs that will help you write your articles and manage your article PR 
+campaign.  
+Q) What should I write about? 
+A) Write about what you know. Make sure its related to your business (so you can use the 
+keywords you want to rank for) and helpful (so it gets published). For example, if youre a 
+manufacturer of industrial plastics, you might write an article - or series of articles - on how 
+best to handle Teflon tubing prior to installation. Once you get thinking about it, you'll 
+probably find there are hundreds of articles you could write that are helpful. You may even 
+have some of them partly written already in your instruction manuals or installation guides, 
+etc. Another good idea is to think of all the questions you get asked by customers and 
+potential customers. These questions show you what people are interested in. If you write an 
+article answering every one of these questions, you'll get published, and you'll also show 
+yourself to be a credible expert. (You may even cut down phone support time!) 
+Q) How long should my article be? 
+A) The best articles are only as long as they need to be. Keep it short and sweet  theres 
+nothing wrong with a 400 word article. By the same token, if you need 1500 words to say all 
+you need to say, thats fine as well (but Id still be thinking about how to break that into three 
+parts and get three times as many links!). 
+Q) How often to submit? 
+A) Whenever you write an article. 
+Q) What kind of writing should I use? 
+A) Simply write in a style that your audience will be comfortable with. If theyre from the old 
+school, dont write like I am. Dont use contractions, dont end sentences with prepositions, 
+and dont start sentences with and or but. But if theyre not old school, just use 
+conversational English. In fact, the more of yourself you include in the article, the more 
+engaging it will be. The key is to make it readable. 
+Q) Should I focus on keywords? 
+A) Yes! Yes! Yes! Optimize your articles just as you optimize your website. (In fact, as youll 
+probably post the articles on your website, youre really are writing for your website, anyway.) 
+If possible, turn a few keywords into links back to your site. And always try to include 
+keywords in the headline and byline of your article. And dont worry about being seen as 
+Spam; if your article provides good quality information and guidance, it won't be seen as spam 
+by the search engines even when its keyword-rich. 
+Q) Do I need to vary the byline? 
+A) There is some evidence to suggest that the search engines prefer varied link text in links 
+back to your site (otherwise they may view the links as artificially generated - i.e. SPAM). 
+Therefore, its probably a good idea to vary at least the link text of your byline (without 
+departing from your keywords).  
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 31
+
+Step 5  Generate links back to your site 31 
+Q) Should I always use the byline to link to my home page or should I also link to 
+other pages? 
+A) Link back to whatever page matches the keywords used in your article. If your website only 
+targets one keyword, simply link back to your home page. 
+Q) Where should I submit my article? 
+A) There are hundreds, if not thousands, of article submission sites and article distribution lists 
+on the World Wide Web. Too many to include here. Do a search for article submit and just 
+find the ones that are most applicable to your industry and offer the most subscribers. 
+Q) How long does it take to submit a single article? 
+A) It all depends on how many sites you submit it to. I allow a full day to submit a single 
+article to the 50+ submission sites in my list. Admittedly Ive been doing it for a while, so Im 
+fairly fast at it, but its not a difficult task. Once youve done it a couple of times, youll have it 
+down to a fine art. You just have to work hard and efficiently when you do it. 
+Q) Who will publish my article?  
+A) Generally people publish pre-written articles because they want eyes on paper. In other 
+words, they want to generate traffic to their site. Helpful articles are one way of doing that 
+because theyre keyword-rich and they enhance the publishers search engine ranking. Expert, 
+helpful articles also make the publisher seem like a credible authority on a particular subject. 
+And, of course, they develop customer loyalty. There are hundreds of thousands (maybe even 
+millions) of companies publishing online newsletters, ezines, and article pages. No matter what 
+your industry, youre bound to find quite a few who are interested in what you have to say. In 
+fact, once a few publishers recognize you as a good source of content, they keep coming back 
+looking for more (and even email you asking if you can send them directly). 
+Q) How will I know when my article has been published? 
+A) As one of the conditions of publication, you can request that the publisher notifies you when 
+they use your article. Of course, most dont bother to do this, so it's a good idea to set up a 
+Google Alert (http://www.google.com/alerts) which notifies you when your URL has been 
+published on a web page. Google doesn't pick them all up, but it picks up a lot. Whenever you 
+receive an alert, you can visit the page to make sure the article is unchanged and the link back 
+to your site is functioning. 
+Q) How much cross-publication of a single article is acceptable? 
+A) It doesn't matter. I have some articles that have been published on many different websites 
+(probably hundreds). These articles still get good coverage on reputable sites with good PR. 
+Q) Will the publisher change my article? 
+A) No, generally not. Changing articles is just extra work. In fact, thats why publishers like 
+good articles and consistent content providers  because that means they dont have to do any 
+extra work. Ive had my articles published thousands of times, and dont recall a single 
+instance of an article being changed without my permission. If youre worried about it, you can 
+include an instruction not to change the article in your conditions of publication. 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 32
+
+Step 5  Generate links back to your site 32 
+Q) Should I post my article on my website? 
+A) Yes! Articles are solid, keyword-rich content. Search engines and visitors alike love them. 
+Add a new page for every article, and link to each from a top level articles page (see 
+http://www.divinewrite.com/articles.htm for a working example).  
+Q) Can I get an SEO copywriter to do my article PR? 
+A) Yes. Any SEO copywriter should be able to write keyword rich articles and submit them to a 
+number of high traffic article submission sites. 
+Q) What kind of information would I need to supply an SEO copywriter to write my 
+article? 
+A) Youd need to tell your SEO copywriter something like, "We want to write an article which 
+helps people install Teflon tubing. The kinds of people who'd be doing it are... They'd be doing 
+it because... The benefits of our tubing are... The difficulties they'd face are... Here are the key 
+steps to successful installation..."  Using this information, your SEO copywriter should be able 
+to put together a very readable article which would be bound to get published. 
+Q) Will my reputation suffer if my article appears on a dubious site? 
+A) It shouldnt. Most dubious sites will either be unrelated or have very low traffic. If the site is 
+unrelated, the publisher wont go to the effort of publishing your article and/or your target 
+market wont see it. If its related but has very low traffic, very few people will see your article 
+there anyway. And besides, even if your article appears on a dubious site, it probably wont be 
+changed because  dubious or not  publishers dont create extra work for themselves. So 
+your original presentation, content, and intent will be unaffected. Write a good article, and it 
+always reflects well on you, no matter where it's published. 
+Q) How long will it take for my ranking to increase? 
+A) There are no guarantees in SEO. It all takes time. For a start, the search engines can take 
+up to 2 months to update their index of pages. And a single inbound link generally wont have 
+much impact. Depending on how much competition youre facing for keywords, and where the 
+links are coming from, 100 inbound links may not make much of a difference. (Links from high 
+PageRank sites are more beneficial to your ranking. So dont expect anything to happen too 
+quickly. But if youre dedicated, and youre prepared to write and submit quite a few articles, 
+youll definitely see results within a few months. 
+Submit your site to local and industry directories 
+Another marginally useful method of generating links is to submit your site to online local 
+directories and industry directories. There are many websites which function purely as 
+directories. They contain thousands of links to other sites. Some of these are very good (such 
+as DMOZ and Yahoo discussed on p.28.), but most are of questionable value. There are 
+several reasons for this: 
+1. Most directories are unrelated to the subject material of your website (and 
+remember, ideal links come from related websites). 
+2. Many directories will charge you for a listing (its only worth paying if the website 
+is related and has a high PR). 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 33
+
+Step 5  Generate links back to your site 33 
+3. Most directories contain thousands of links. Every page can have hundreds of 
+links to other sites. As mentioned above, its best if your link appears on a page with 
+few (if any) links to other pages. 
+4. Most directories are not very good. Directories are about money; they either 
+charge you to add a listing or they sell advertising space (or both). They can be a 
+great income source for their owners, and this makes them a very inviting business 
+idea. As a result, thousands of new directories are popping up every year, and very 
+few of them are any good.  
+Keep your eye out for directories that are relevant and/or have a high ranking or PR. Also keep 
+your eye out for directories which might bring you useful traffic (e.g. local business 
+directories). But dont spend too much time doing it. Your time would be far better spent 
+writing and submitting articles. 
+TIP: If you really feel the need to add your site to directories, take a look at 
+http://www.webproworld.com/viewtopic.php?t=21900&sid=aea99f48670ee336f2b922
+c79983e394 for a very comprehensive and regularly updated list of directories that 
+accept links. 
+Look for link partners 
+Probably the most well known method of generating links is to look for link partners. This is 
+done in a variety of ways: 
+∑ ask customers to link to your site (possibly in return for a link to theirs) 
+∑ ask suppliers to link to your site (possibly in return for a link to theirs) 
+∑ look for relevant high ranking sites and ask them to link to you (possibly in return for 
+a link to theirs) 
+∑ buy SEO software which locates high ranking sites and automatically emails their 
+owners asking them to link to you (possibly in return for a link to theirs) 
+Interestingly, looking for link partners tends to be the least effective method of increasing your 
+search engine ranking because: 
+1. Its normally done via email and, unfortunately, webmasters of high ranking sites 
+receive many link partner requests each day (not to mention hundreds of other 
+SPAM emails). Theyre normally automated and irrelevant. As a result, most email-
+initiated link partner requests are deleted. 
+2. Most link partner requests are sent by webmasters of low PR sites to webmasters of 
+high PR sites. Although the link would be very beneficial to the low PR site, it 
+wouldnt help the high PR site at all (and may in fact hinder their ranking). 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 34
+
+Step 5  Generate links back to your site 34 
+3. Even if you offer a reciprocal link (a link back to their website), most webmasters of 
+high PR sites will not be interested because its extra work. Whats more, they wont 
+want to obscure the purpose of their site with hundreds of links (relevant or not, 
+they dont want to look like a directory to their customers). 
+TIP: If you decide to manually look for link partners, one way of assessing a sites 
+importance is to look at their Google PageRank (PR). PR is how Google scores 
+importance. It gives all sites a mark out of 10. Any site with a PR of 4 or above is 
+generally considered a worthy link partner. By downloading the Google Toolbar (from 
+http://toolbar.google.com), you can view the PR of any site you visit. 
+How long will it take? 
+A long time! 
+Its impossible to say how much time youll need to spend generating links, but you can be 
+sure itll be a while no matter which method of link generation you use. You just have to keep 
+at it until you have achieved a high ranking. Even then, youll still need to dedicate some 
+ongoing time to the task, otherwise your ranking will drop. 
+Is it possible to generate links too fast? 
+Yes, its possible. But using the methods outlined above, its extremely unlikely. 
+The search engines dont like to see links generated too fast. For instance, if you had 100 links 
+to your site yesterday, but you have 2100 today, the search engines will assume youve done 
+something a little shady, and sandbox your links (i.e. delay their full impact) until it 
+establishes their validity. You may even be penalized more harshly than this. 
+Thats why its not a good idea to set up multiple independent websites all containing dozens of 
+links back to your main site. This would get you lots of links very quickly, but it might also see 
+you blacklisted! 
+Paying an SEO company to generate links for you 
+Generating links takes a long time and involves a lot of work. Like any other form of 
+promotion, it requires investment - either in time or money. If you decide to outsource the 
+task of generating links, be careful. There are some companies which generate links to a 
+domain of their own, and pass the value of these links on to your site. This does NOT result in 
+a permanent increase in the ranking of your site. These companies charge a monthly fee, and 
+so long as you pay the fee, your site may rank highly. But as soon as you stop paying their fee 
+(e.g. you find another SEO company that you prefer), your site's ranking will drop back to 
+where it was when you started out. Effectively, they hold you to ransom. 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 35
+
+Step 5  Generate links back to your site 35 
+Don't get caught out! When you're researching SEO companies to generate links for you, 
+ALWAYS ask them how they will do it. If they can't or won't tell you, DO NOT engage them. If 
+they tell you but you are unable to completely understand, DO NOT engage them (there are no 
+link generation methods which are too complex for the layperson to understand when 
+explained properly). 
+Also, always be clear in your own mind on exactly what you're paying for. Remember that 
+there are two parts to obtaining a high ranking: optimizing your site, and generating links back 
+to your site. Always get your SEO company to explain exactly which part(s) they will do for 
+you, and how they plan to do it. 
+Chapter Summary 
+∑ Generally speaking, the more links you have back to your site, the higher your 
+ranking will be. 
+∑ Some links are better than others. 
+∑ Dont use auto-link-generation software 
+∑ Dont set up websites simply to host links to your main site 
+∑ Add your site to DMOZ & Yahoo Directories 
+∑ Check where your competitors links are coming from 
+∑ Write and submit articles for Internet publication 
+∑ Submit your site to local and industry directories 
+∑ Look for link partners (but dont spend too much time on it) 
+∑ Link generation takes a long time no matter how you do it! 
+ 
+ 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 36
+
+Step 6  Monitor your progress 36 
+Step 6 - Monitor your progress 
+Now that youve done the lions share of the hard work, you can sit back and observe the 
+results of your handiwork. Its very important that you monitor your progress. Keep an eye on 
+how many links youre generating, where theyre coming from, and the overall impact on your 
+ranking. 
+Monitor how many links youíre generating 
+Its important to monitor how many links youre generating because you can cross-reference 
+that information against improvements in ranking to estimate how much effort your SEO push 
+is going to take. e.g. If you generate 300 links and your site goes from number 150 to number 
+15, you know that you should be topping the rankings before too long. If, on the other hand, 
+your ranking has only marginally increased, you know you need to work a lot harder. 
+You can monitor how many links youre generating in a number of ways: 
+∑ Search Google for www.yourdomainname.com. Google will then display a screen 
+which says, Google can show you the following information for this URL: At the 
+bottom of the list of option is Find web pages that contain the term 
+"www.yourdomainname.com"". Click on this option. Google will display all the pages it 
+can find that have www.yourdomainname.com on one of their pages. Normally this 
+indicates a link to your site. (TIP: Bookmark the search results page so you can 
+perform this search quickly and easily as you will probably find yourself doing it quite 
+often.) 
+∑ Go to http://www.marketleap.com/publinkpop/ and type in your domain name. This 
+tool itemizes your links by search engine (i.e. tells you how many links each search 
+engine has found) and also provides graphical trends. 
+∑ Go to http://www.alexa.com and type in your domain name, then click Sites Linking 
+in from the left of the page. (TIP: Alexa can also be used to track your ranking 
+metrics.)  
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 37
+
+Step 6  Monitor your progress 37 
+TIP: Youll notice that each of these tools return different figures. Dont worry about 
+this. Just pick a tool and stick with it  this way youre always comparing apples with 
+apples. 
+Monitor whoís linking to your site 
+Always keep track of whos linking to your site. Apart from simply being interesting, it will give 
+you some idea of who is interested in your site and your material, you can assess their 
+importance (PR), and also more accurately target their needs with future link generation 
+tactics. 
+Probably the easiest way to track whos linking to your site is to set up a Google Monitor at 
+http://www.google.com/alerts. Google alerts notify you when your URL has been published on 
+a web page. Google doesn't pick them all up, but it picks up a lot.  
+TIP: Whenever you receive an alert, you can visit the page to make sure the article in 
+unchanged and the link back to your site is functioning. 
+Monitor your ranking 
+Obviously you should be monitoring your ranking to ensure that your hard work is not wasted 
+(and to adapt your SEO and link generation strategy as needed). 
+Manually 
+You can check your ranking manually simply by doing a search for your keyword at the 
+appropriate search engine. 
+TIP: If you prefer to check manually, make sure you bookmark the search results 
+page as youll probably find yourself performing this search fairly frequently. Dont 
+perform it too frequently, though, as this can impact the perceived desirability of your 
+keywords (and it is argued that Google takes exception to repeated searches of this 
+type). 
+Automatically 
+You can check all the major search engines (AOL, Google, HotBot, MSN, Netscape, 
+Yahoo/Fast/AltaVista) at once using MarketLeaps verification tool 
+http://www.marketleap.com/verify/default.htm. NOTE: This tool returns a page number (e.g. 
+it will tell you your site appears on page 2 of Yahoo).  
+There are plenty of other tools out there that you can use to monitor your ranking, such as 
+CleverStats Free Monitor for Google (see http://www.cleverstat.com/google-monitor-
+query.htm). Shop around until you find the tool that suits you best. The important thing to 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 38
+
+Step 6  Monitor your progress 38 
+remember is that you dont have to pay anything for a rank monitoring tool as there are plenty 
+of free ones on offer. 
+Chapter Summary 
+∑ Monitor how many links you have and cross-reference that information against 
+improvements in ranking to estimate how much effort your SEO push is going to take.  
+∑ Monitor who is linking to your site to more accurately adapt future link generation 
+tactics. 
+∑ Monitor your ranking and adapt your SEO and link generation strategy as needed. 
+ 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 39
+
+Conclusion 39 
+Conclusion 
+Search Engine Optimization is not a black art; its a science. There are defined rules and 
+proven methodologies. And although theres a lot more to it than can be contained in a book of 
+this size, you shouldnt need any more than what youve just read to obtain a high ranking in 
+the search engines. 
+But theres no denying that its hard work and takes a long time. Whatever you do, dont rush 
+into it. Make sure you understand the fundamentals, then take some time to plan your 
+approach.  
+In other words, SEO strategy must be part of your marketing plan alongside traditional 
+promotional activities such as print, radio, and TV. Just as importantly, it must be part of your 
+marketing budget. Dont fall into the trap of thinking that the search engines are free 
+advertising. Theyre not! Companies like Google and Yahoo may not accept payment for a high 
+ranking, but that doesnt mean it comes for free. Someone has to do the work to get you 
+there. Whether you spend the time to do it yourself, or you engage an expert to do it for you, 
+SEO requires a serious investment.  
+But the spoils are well worth it. Research suggests that being number 1 in Google means twice 
+as much traffic as being number 2. Imagine how much difference it would make to your web 
+traffic& 
+ 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 40
+
+Frequently Asked Questions 40 
+Frequently Asked Questions 
+Search engine optimization (SEO) is a foreign field to a lot of people. Rarely does a day go by 
+when I don't get asked a few questions on the subject. So I've decided to post this FAQ article 
+in the hopes that it will help people understand the basics, and make them a little more 
+comfortable with the whole domain. 
+Q: Why are search engines important to me?  
+A: 85% of all website traffic is driven by search engines. The only online activity more popular 
+than search is email. 79.2% of US users don't go to page 2 of search results. 42% of users 
+click on the no.1 result. For the under-40 age-group, the Internet will become the most used 
+media in the next 2-3 years.  
+Q: How do search engines decide on their rankings?  
+A: IMPORTANT: You cannot pay a search engine in return for a high ranking in the natural 
+results. You can only get a high ranking if your content is seen as relevant by the search 
+engines.  
+Search engines identify relevant content for their search results by sending out spiders or 
+robots which crawl (analyze) your site and index (record) its details. Complex algorithms 
+are then employed to determine whether your site is useful and should be included in the 
+search engines search results.  
+Q: Can't I just pay for a high ranking?  
+A: No. The biggest concern for search engine companies like Google and Yahoo is finding 
+content that will bring them more traffic (and thus more advertising revenue). In other words, 
+their results must be relevant. Relevant results makes for a good search engine; irrelevant 
+results makes for a short-lived search engine.  
+Most search engines these days return two types of results whenever you click Search:  
+ Natural/Organic  The real search results. The results that most users are looking 
+for and which take up most of the window. For most searches, the search engine 
+displays a long list of links to sites with content which is related to the word you 
+searched for. These results are ranked according to how relevant and important they 
+are.  
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 41
+
+Frequently Asked Questions 41 
+ Paid  Pure advertising. This is how the search engines make their money. 
+Advertisers pay the search engines to display their ad whenever someone searches 
+for a word which is related to their product or service. These ads look similar to the 
+natural search results, but are normally labeled Sponsored Links, and normally take 
+up a smaller portion of the window.  
+Q: How do I get a high ranking?  
+A: There are four main steps:  
+Step 1 - Use the right words on your website 
+Step 2 - Get lots of relevant sites to link to yours 
+Step 3 - Use the right words in those links 
+Step 4 - Have lots of content on your site & add more regularly 
+Q: What is search engine optimization (SEO)?  
+A: Search Engine Optimization (SEO) is the art of creating a website which is search engine-
+friendly. This means:  
+ using the right words in your copy  
+ using the right words in your HTML code  
+ structuring your site properly  
+ designing your site properly 
+For more information on these 4 elements, download our free 'SEO Secrets' eBook from 
+http://www.divinewrite.com/seosecrets.htm .  
+Many people use SEO to also describe the other ingredient in a high ranking, 'Link Popularity'.  
+Q: What is link popularity?  
+A: Think of the search engines as a big election. All the websites in the world are candidates. 
+The links to your website are votes. The more votes (links) a candidate (website) has, the 
+more important it is, and the higher its ranking. Link popularity is all about how many links 
+you have, and how you can get more.  
+Links to your site tell the search engines how important your site is. They assume that if its 
+important enough for a lot of other sites to link to, its important enough for them to display at 
+the top of the rankings. Links are the single most important factor in ranking. Generally 
+speaking, the more links you have to your site from other sites, the better your ranking.  
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 42
+
+Frequently Asked Questions 42 
+Q: How many links to my site are there?  
+A: Search Google for "www.yourdomain.com". (Don't search for "link:www.yourdomain.com" 
+as this only returns a subset of the links to your site.) Then on the page that displays next, 
+select "Find web pages that contain the term "www.yourdomain.com" ". When you do it this 
+way, you'll see all the pages that contain your URL. In most cases, the URL will be an active 
+link (or at least it should be... if it's not, you should ask the site owner to make it so). There 
+are also some tools you can use 
+For more information& 
+ 
+∑ on tools, p.43.  
+Q: Are some links better than others?  
+A: Yes! The ideal kind of links are those that:  
+ come from relevant sites (sites which use the same keywords);  
+ come from important sites (have a high ranking);  
+ include your keyword as part of the visible link text;  
+ include varying link text (not the same link text each time); and  
+ come from a page that links to few other sites.  
+When a search engine sees a link which satisfies most or all of these conditions, it says, Hey, 
+this site must be credible and important, because others in the same industry are pointing to 
+it.  
+Q: How do I get lots of links back to my site?  
+A: There are many possible ways to generate links. Some are dubious (like auto-generation 
+software, and sites set up by webmasters simply to host links to their other sites) and I wont 
+be discussing them here. Others, like those discussed below, are legitimate. 
+ Add your site to DMOZ & Yahoo Directories (and other free directories)  
+ Check where your competitors links are coming from  
+ Article PR - Write and submit articles for Internet publication  
+ Swap links  
+ Partner websites  
+ Pay for links 
+For more information on these methods, download our free 'SEO Secrets' eBook from 
+http://www.divinewrite.com/seosecrets.htm .  
+Q: What do you think is the best way to get lots of links?  
+A: Article PR. Write helpful articles and let other webmasters publish them for free in exchange 
+for a link in the byline. With article PR, you don't have to pay for the link, you determine the 
+content of the page containing the link, you determine the link text, and the link is more or 
+less permanent. A single article can be reprinted hundreds of times, and each time is another 
+link back to your site! 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 43
+
+Frequently Asked Questions 43 
+For more information, read http://www.divinewrite.com/seoarticles.htm or visit 
+www.ArticlePR.com .  
+Q: How do I write a good article PR piece?  
+A: See http://www.divinewrite.com/seoarticles.htm . 
+Q: How do I get a high ranking using free reprint content?  
+A: See http://www.divinewrite.com/Top_Ranking_Free.htm . 
+Q: How long does it take to get a high search engine ranking?  
+A: A long time! Its impossible to say how much time youll need to spend generating links, but 
+you can be sure itll be a while no matter which method of link generation you use. You just 
+have to keep at it until you have achieved a high ranking. Even then, youll still need to 
+dedicate some ongoing time to the task, otherwise your ranking will drop.  
+Q: What is the Google Sandbox, and is it real?  
+A: The Google Sandbox theory suggest that whenever Google detects a new website, it 
+withholds its rightful ranking for a period while it determines whether your site is a genuine, 
+credible, long term site. It does this to discourage the creation of SPAM websites (sites which 
+serve no useful purpose other than to boost the ranking of some other site).  
+There is a lot of anecdotal evidence supporting the theory, but there is also a lot discounting it. 
+No one has categorically proven its existence.  
+Q: What is the Google Dampening Link Filter, and is it real?  
+A: The Google Dampening Link Filter theory suggests that if Google detects a sudden increase 
+(i.e. many hundreds or thousands) in the number of links back to your site, it may sandbox 
+them for a period (or in fact penalize you by lowering your ranking or blacklisting your site 
+altogether).  
+There is a lot of anecdotal evidence supporting the theory, but there is also a lot discounting it. 
+No one has categorically proven its existence.  
+Q: What SEO companies should I be wary of?  
+A: Be wary of SEO companies that promise or guarantee results in a given timeframe, 
+especially if they won't expand on their methods for generating links back to your site.  
+Q: What tools can you recommend?  
+A: There are many very useful tools to help with your SEO. The following are just selection. All 
+tools are free unless otherwise indicated.  
+ Backlink checker - http://www.webuildpages.com/neat-o/  
+ Backlinks by IP address - http://www.webuildpages.com/cclass/index.php  
+ Link Popularity Tool - http://www.marketleap.com/publinkpop/  
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 44
+
+Frequently Asked Questions 44 
+ Number of links required to rank - http://www.iblcheck.com/  
+ Google Alert - http://www.google.com/alerts?hl=en  
+ Google Sitemaps - http://www.google.com/webmasters/sitemaps  
+ Google Sitemap Generator - http://johannesmueller.com/gs/  
+ Google Toolbar - http://toolbar.google.com/  
+ Indexed Pages - http://www.webuildpages.com/cache/cachetoolpublic.pl  
+ Keyword Analysis (Nichebot) - http://www.nichebot.com/  
+ Keyword Analysis (Overture) - 
+http://inventory.overture.com/d/searchinventory/suggestion/  
+ Keyword Analysis (WordTracker - Paid) - http://www.wordtracker.com/  
+ Keyword Difficulty - http://www.seomoz.org/tools/keyword-difficulty-tool.php  
+ Keyword Identifier - http://www.googlerankings.com/ultimate_seo_tool.php  
+ Keyword Density Measurement (Simple) - http://www.live-keyword-analysis.com/  
+ Keyword Density Measurement (Complex) - http://www.gorank.com/analyze.php  
+ Plagiarized Copy Search - http://www.copyscape.com/  
+ Traffic Rank - http://www.alexa.com/  
+ Search Engine Rank - http://www.marketleap.com/publinkpop/  
+ SEO Report - http://www.urltrends.com/  
+ Top 10 sites for a keyword by no of backlinks and age - 
+http://www.webuildpages.com/seo-tools/whoischeck-bykeys.pl  
+ Top 10 sites for a keyword - http://www.webuildpages.com/cool-seo-tool/  
+ Spider Simulator - http://tools.summitmedia.co.uk/spider/  
+Q: I'm confused about all the terms used in SEO, can you help?  
+A: See 'Glossary of Terms', p.46.  
+Q: What is keyword analysis?  
+A: The first thing you need to do when you begin chasing a good search engine ranking is 
+decide which words you want to rank well for. This is called performing a keyword analysis. 
+Keyword analysis involves a bit of research and a good knowledge of your business and the 
+benefits you offer your customers.  
+For more information, download our free 'SEO Secrets' eBook from 
+http://www.divinewrite.com/seosecrets.htm .  
+Q: Do I need to submit my site to the search engines?  
+A: Theoretically, no. But I wouldn't risk not doing it - especially as it's free. As soon as you 
+register your domain name, submit it to Google! Even if you havent built your site, or thought 
+about your content, submit your domain name to Google. In fact, even if you havent fully 
+articulated your business plan and marketing plan, submit your domain name to Google.  
+For more information, download our free 'SEO Secrets' eBook from 
+http://www.divinewrite.com/seosecrets.htm .  
+Q: Should I submit my site to the search engines more than once?  
+A: No need. Although some of the search engines allow you to do this, there's really no need.  
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 45
+
+Frequently Asked Questions 45 
+Q: What are directories and should I submit my site to them?  
+A: Directories are websites (or web pages) which simply list lots of website and give a quick 
+description of the website. Some are free and some require you to pay for a listing. Free 
+directories are useful because you get a free link. However, the links aren't worth that much. 
+Paid directories can be good if they're relevant, but they can cost a lot in the long term, so 
+choose wisely.  
+One essential directories for any website is the DMOZ Open Directory Project.  
+ 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 46
+
+Glossary of Terms 46 
+Glossary of Terms 
+AdWords 
+See Sponsored Links. 
+algorithm 
+A complex mathematical formula used by search engines to assess the relevance and 
+importance of websites and rank them accordingly in their search results. These algorithms are 
+kept tightly under wraps as they are the key to the objectivity of search engines (i.e. the 
+algorithm ensures relevant results, and relevant results bring more users, which in turn brings 
+more advertising revenue). 
+article PR 
+The submitting of free reprint articles to many article submission sites and article distribution 
+lists in order to increase your website's search engine ranking and Google PageRank. (In this 
+sense, the "PR" stands for PageRank.) Like traditional public relations, article PR also conveys 
+a sense of authority because your articles are widely published. And because you're proving 
+your expertise and freely dispensing knowledge, your readers will trust you and will be more 
+likely to remain loyal to you. (In this sense, the "PR" stands for Public Relations.) 
+article distribution lists 
+User groups (e.g. Yahoo, MSN, Google, Smartgroups, and Topica groups) which accept email 
+submissions of articles in text format, and then distribute these articles via email to all of the 
+members of the group. See also 'article PR'. 
+article submission sites 
+Websites which act as repositories of free reprint articles. Authors visit these sites to submit 
+their articles free of charge, and webmasters visit to find articles to use on their websites free 
+of charge. Article submission sites generate revenue by selling advertising space on their 
+websites. See also 'article PR'. 
+backlink 
+A text link to your website from another website. See also link. 
+copy 
+The words used on your website. 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 47
+
+Glossary of Terms 47 
+copywriter 
+A professional writer who specializes in the writing of advertising copy (compelling, engaging 
+words promoting a particular product or service). See also SEO copywriter and web 
+copywriter. 
+crawl 
+Google finds pages on the World Wide Web and records their details in its index by sending out 
+spiders or robots. These spiders make their way from page to page and site to site by 
+following text links. To a spider, a text link is like a door.  
+domain name 
+The virtual address of your website (normally in the form www.yourbusinessname.com). This 
+is what people will type when they want to visit your site. It is also what you will use as the 
+address in any text links back to your site. 
+ezine 
+An electronic magazine. Most publishers of ezines are desperate for content and gladly publish 
+well written, helpful articles and give you full credit as author, including a link to your website. 
+Flash 
+A technology used to create animated web pages (and page elements). 
+free reprint article 
+An article written by you and made freely available to other webmasters to publish on their 
+websites. See also 'article PR'. 
+Google  
+The search engine with the greatest coverage of the World Wide Web, and which is responsible 
+for most search engine-referred traffic. Of approximately 11.5 billion pages on the World Wide 
+Web, it is estimated that Google has indexed around 8.8 billion. This is one reason why it takes 
+so long to increase your ranking! 
+Google AdWords 
+See Sponsored Links. 
+Google PageRank 
+How Google scores a websites importance. It gives all sites a mark out of 10. By downloading 
+the Google Toolbar (from http://toolbar.google.com), you can view the PR of any site you visit. 
+Google Toolbar 
+A free tool you can download. It becomes part of your browser toolbar. Its most useful 
+features are its PageRank display (which allows you to view the PR of any site you visit) and 
+its AutoFill function (when youre filling out an online form, you can click AutoFill, and it enters 
+all the standard information automatically, including Name, Address, Zip code/Postcode, Phone 
+Number, Email Address, Business Name, Credit Card Number (password protected), etc.) Once 
+youve downloaded and installed the toolbar, you may need to set up how youd like it to look 
+and work by clicking Options (setup is very easy). NOTE: Google does record some information 
+(mostly regarding sites visited). 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 48
+
+Glossary of Terms 48 
+ 
+HTML 
+HTML (HyperText Markup Language) is the coding language used to create much of the 
+information on the World Wide Web. Web browsers read the HTML code and display the page 
+that code describes. 
+Internet 
+An interconnected network of computers around the world. 
+JavaScript 
+A programming language used to create dynamic website pages (e.g. interactivity). 
+keyword 
+A word which your customers search for and which you use frequently on your site in order to 
+be relevant to those searches. This use known as targeting a keyword. Most websites actually 
+target keyword phrases because single keywords are too generic and it is very difficult to 
+rank highly for them. 
+keyword density 
+A measure of the frequency of your keyword in relation to the total wordcount of the page. So 
+if your page has 200 words, and your keyword phrase appears 10 times, its density is 5%.  
+keyword phrase 
+A phrase which your customers search for and which you use frequently on your site in order 
+to be relevant to those searches.  
+link 
+A word or image on a web page which the reader can click to visit another page. There are 
+normally visual cues to indicate to the reader that the word or image is a link. 
+link path 
+Using text links to connect a series of page (i.e. page 1 connects to page 2, page 2 connects to 
+page 3, page 3 connects to page 4, and so on). Search engine spiders and robots use text 
+links to jump from page to page as they gather information about it, so its a good idea to 
+allow them traverse your entire site via text links. (See Link paths on p.22. for further 
+information.)  
+link partner 
+A webmaster who is willing to put a link to your website on their website. Quite often link 
+partners engage in reciprocal linking. 
+link popularity 
+The number of links to your website. Link popularity is the single most important factor in a 
+high search engine ranking. Webmasters use a number of methods to increase their site's link 
+popularity including article PR, link exchange (link partners / reciprocal linking), link buying, 
+and link directories. 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 49
+
+Glossary of Terms 49 
+link text 
+The part of a text link that is visible to the reader. When generating links to your own site, 
+they are most effective (in terms of ranking) if they include your keyword. 
+meta tag 
+A short note within the header of the HTML of your web page which describes some aspect of 
+that page. These meta tags are read by the search engines and used to help assess the 
+relevance of a site to a particular search. 
+natural search results 
+The real search results. The results that most users are looking for and which take up most of 
+the window. For most searches, the search engine displays a long list of links to sites with 
+content which is related to the word you searched for. These results are ranked according to 
+how relevant and important they are.  
+organic search results 
+See natural search results.  
+PPC (Pay-Per-Click advertising) 
+See Sponsored Links. 
+PageRank 
+See Google PageRank. 
+rank 
+Your position in the search results that display when someone searches for a particular word at 
+a search engine.  
+reciprocal link 
+A mutual agreement between two webmasters to exchange links (i.e. they both add a link to 
+the others website on their own website). Most search engines (certainly Google) are 
+sophisticated enough to detect reciprocal linking and they dont view it very favorably because 
+it is clearly a manufactured method of generating links. Websites with reciprocal links risk 
+being penalized. 
+robot 
+See Spider. 
+robots.txt file 
+A file which is used to inform the search engine spider which pages on a site should not be 
+indexed. This file sits in your sites root directory on the web server. (Alternatively, you can do 
+a similar thing by placing tags in the header section of your HTML for search engine 
+robots/spiders to read. See Optimizing your web  on p.23. for more information.) 
+Sandbox 
+Many SEO experts believe that Google sandboxes new websites. Whenever it detects a new 
+website, it withholds its rightful ranking for a period while it determines whether your site is a 
+genuine, credible, long term site. It does this to discourage the creation of SPAM websites 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 50
+
+Glossary of Terms 50 
+(sites which serve no useful purpose other than to boost the ranking of some other site). 
+Likewise, if Google detects a sudden increase (i.e. many hundreds or thousands) in the 
+number of links back to your site, it may sandbox them for a period (or in fact penalize you by 
+lowering your ranking or blacklisting your site altogether). 
+SEO 
+Search Engine Optimization. The art of making your website relevant and important so that it 
+ranks high in the search results for a particular word. 
+SEO copywriter 
+A copywriter who is not only proficient at web copy, but also experienced in writing copy 
+which is optimized for search engines (and will therefore help you achieve a better search 
+engine ranking for your website). 
+search engine 
+A search engine is an online tool which allows you to search for websites which contain a 
+particular word or phrase. The most well known search engines are Google, Yahoo, and MSN. 
+site map 
+A single page which contains a list of text links to every page in the site (and every page 
+contains a text link back to the site map). Think of your site map as being at the center of a 
+spider-web. 
+SPAM 
+Generally refers to unwanted and unrequested email sent en-masse to private email 
+addresses. Also used to refer to websites which appear high in search results without having 
+any useful content. The creators of these sites set them up simply to cash in on their high 
+ranking by selling advertising space, links to other sites, or by linking to other sites of their 
+own and thereby increasing the ranking of those sites. The search engines are becoming 
+increasingly sophisticated, and already have very efficient ways to detect SPAM websites and 
+penalize them. 
+spider 
+Google finds pages on the World Wide Web and records their details in its index by sending out 
+spiders or robots. These spiders make their way from page to page and site to site by 
+following text links.  
+Sponsored Links 
+Paid advertising which displays next to the natural search results. Customers can click on the 
+ad to visit the advertisers website. This is how the search engines make their money. 
+Advertisers set their ads up to display whenever someone searches for a word which is related 
+to their product or service. These ads look similar to the natural search results, but are 
+normally labeled Sponsored Links, and normally take up a smaller portion of the window. 
+These ads work on a Pay-Per-Click (PPC) basis (i.e. the advertiser only pays when someone 
+clicks on their ad). 
+submit 
+You can submit your domain name to the search engines so that their spiders or robots will 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 51
+
+Glossary of Terms 51 
+crawl your site. You can also submit articles to article submission sites in order to have them 
+published on the Internet. 
+text link 
+A word on a web page which the reader can click to visit another page. Text links are normally 
+blue and underlined. Text links are what spiders or robots use to jump from page to page 
+and website to website. 
+URL 
+Uniform Resource Locator. The address of a particular page published on the Internet. 
+Normally in the form http://www.yourbusinessname.com/AWebPage.htm.  
+web copy 
+See copy. 
+web copywriter 
+A copywriter who understands the unique requirements of writing for an online medium. 
+webmaster 
+A person responsible for the management of a particular website. 
+wordcount 
+The number of words on a particular web page. 
+World Wide Web (WWW) 
+The vast array of documents published on the Internet. It is estimated that the World Wide 
+Web now consists of approximately 11.5 billion pages.  
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 52
+
+Index 52 
+Index 
+defined ∑ 46 
+FAQs on writing & 
+3 submitting ∑ 30 C 
+301 redirects generate links by code ∑ See HTML 
+publishing ∑ 29 
+rebuilding an existing site how long until rank competitors 
+∑ 25 increases ∑ 32 links ∑ 28 
+conclusion ∑ 39 
+illegal changes ∑ 31 construction ∑ See web 
+4 keywords ∑ 30 
+length ∑ 30 construction, See web 
+paying a writer ∑ 32 construction 
+404 error handling copy ∑ See web copy 
+recommended for web posting on website ∑ 32 defined ∑ 46 
+construction ∑ 24 publishing ∑ 31 
+reputation ∑ 32 copywriter 
+style ∑ 30 defined ∑ 47 
+A time to write ∑ 31 copywriting ∑ See web copy 
+crawl 
+topic ∑ 30 
+AdWords where to submit ∑ 31 defined ∑ 47 
+defined ∑ 46 article submission sites crawling 
+algorithm defined ∑ 46 introduction ∑ 9 
+defined ∑ 46 
+All the Web D 
+how to submit your site ∑ B 
+12 
+backlink definitions ∑ 46 
+Alt meta tag Description meta tag 
+optimizing ∑ 21 defined ∑ 46 optimizing ∑ 21 
+Alta Vista backlinks ∑ See link 
+how to submit your site ∑ popularity directories 
+business directories generate links by 
+12 submitting to ∑ 32 
+architecture ∑ See site generate links by list of ∑ 33 
+structure submitting to ∑ 32 
+article distribution lists why not ∑ 32 
+directory structure 
+defined ∑ 46 recommendations when 
+article PR rebuilding site ∑ 25 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 53
+
+Index 53 
+domain name G HTML 
+defined ∑ 47 defined ∑ 48 
+submit your site to Google generating links back to optimizing ∑ 20 
+after registering ∑ 11 your site recommended for web 
+article PR ∑ 29 construction ∑ 24 
+E chapter summary ∑ 35, 38 using keywords ∑ 20 
+copy competitors ∑ 28 
+delay ∑ 34 
+ezine DMOZ & Yahoo I 
+defined ∑ 47 
+Directory ∑ 28 importance 
+how long does it take? ∑ links ∑ 10, 17, 27 
+F 34 
+how to ∑ 27 inbound links ∑ See link 
+popularity 
+FAQ ∑ 40 introduction ∑ 10, 17, 27 information architecture ∑ 
+backlink quality ∑ 42 link partners ∑ 33 See site structure 
+Google Dampening Link paying an SEO company ∑ 
+Filter ∑ 43 34 internal links 
+link path diagram ∑ 23 
+Google sandbox ∑ 43 penalties ∑ 34 recommendations ∑ 18, 19, 
+how many links point to Sandbox ∑ 34 22, 48 
+my site? ∑ 42 submitting site to 
+how to get a high ranking directories ∑ 32 Internet 
+defined ∑ 48 
+∑ 41 glossary ∑ 46 Introduction ∑ 6 
+link popularity - best ∑ 42 Google 
+link popularity methods ∑ defined ∑ 47 
+42 how to submit your site ∑ J 
+search engine importance 11 
+∑ 40 Sandbox ∑ 11 JavaScript 
+search engine rankings ∑ submitting your site ∑ 11 defined ∑ 48 
+40 Google AdWords in web construction ∑ 24 
+tools ∑ 43 defined ∑ 47 
+Fast Google Dampening Link 
+how to submit your site ∑ Filter K 
+12 is it real? ∑ 43 
+keyword 
+file structure Google PageRank defined ∑ 48 
+recommendations when defined ∑ 47 
+rebuilding site ∑ 25 Google sandbox keyword analysis 
+Flash is it real? ∑ 43 introduction ∑ 10, 14 
+tools ∑ 14 
+defined ∑ 47 Google Toolbar keyword density 
+in web construction ∑ 24 defined ∑ 47 
+frames graphics overview ∑ 18 
+in web construction ∑ 24 embedding copy ∑ 24 recommended ∑ 18 
+keyword phrase 
+free reprint article defined ∑ 48 
+defined ∑ 47 H introduction ∑ 15 
+keyword strategy 
+headings defined ∑ 48 
+using keywords ∑ 19 keywords 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 54
+
+Index 54 
+articles ∑ 30 generating ∑ 10, 17, 27 meta tags 
+chapter summary ∑ 15 how long does it take to Alt - optimizing ∑ 21 
+choosing ∑ 10, 14 generate? ∑ 34 defined ∑ 49 
+density measuring ∑ 18 how many links point to Description - optimizing ∑ 
+density overview ∑ 18 my site? ∑ 42 21 
+density recommended ∑ 18 how to generate ideal introduction ∑ 20 
+frequency of use ∑ 18 links ∑ 27 Keywords - optimizing ∑ 
+in headings ∑ 19 importance ∑ 10, 17, 27 21 
+in HTML ∑ 20 introduction ∑ 10 optimizing ∑ 20 
+in links ∑ 19 link partners ∑ 33 Robots using ∑ 24 
+in meta tags ∑ 20 link quality ∑ 42 tip for optimizing ∑ 21 
+in web copy ∑ 17 link text ∑ 10, 17, 27 Title - optimizing ∑ 20 
+introduction ∑ 9 methods ∑ 42 using keywords ∑ 20 
+more than one ∑ 18, 22 monitoring number of ∑ 36 monitoring your progress 
+positioning ∑ 18 monitoring who is linking introduction ∑ 36 
+prominence ∑ 20 ∑ 37 number of links ∑ 36 
+single v phrase ∑ 15 number of other links at rank ∑ 37 
+strategy ∑ 15 linking site ∑ 10, 17, 27 tools ∑ 36 
+Keywords meta tag paying an SEO company who is linking to your site 
+optimizing ∑ 21 to generate ∑ 34 ∑ 37 
+relevance ∑ 10, 17, 27 MSN 
+L tip for checking how to submit your site ∑ 
+competitorsí links ∑ 29 12 
+link Yahoo Directory ∑ 28 submitting your site ∑ 11 
+link text multiple keywords 
+defined ∑ 48 defined ∑ 19, 49 introduction ∑ 18, 22 
+link partner keyword ∑ 10, 17, 27 
+defined ∑ 48 using keywords ∑ 19 
+link partners links N 
+generate links ∑ 33 and spiders ∑ 18, 22, 48 
+tip for finding ∑ 34 human preferences ∑ 19 natural search results 
+why not ∑ 33 internal linking ∑ 18, 19, defined ∑ 49 
+link path navigation 
+defined ∑ 48 22, 48 recommended for web 
+link paths link path diagram ∑ 23 construction ∑ 24 
+recommendation ∑ 18, 22, link paths ∑ 18, 22, 48 Netscape 
+48 unmarked ∑ 19 how to submit your site ∑ 
+using keywords ∑ 19 
+link popularity local directories 12 
+best method ∑ 42 generate links by 
+chapter summary ∑ 35, 38 submitting to ∑ 32 O 
+competitors ∑ 28 
+defined ∑ 48 
+DMOZ ∑ 28 M online directories 
+generate by submitting generate links by 
+site to directories ∑ 32 menu navigation submitting to ∑ 32 
+generate with article PR ∑ recommended for web optimization ∑ See SEO 
+29 construction ∑ 24 optimizing website 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 55
+
+Index 55 
+chapter summary ∑ 25 robot submitting your site ∑ 11 
+HTML metatags ∑ 20 defined ∑ 49 search results 
+paying an SEO company ∑ robots ∑ See spiders can I pay for a top 
+25 Robots meta tag ranking? ∑ 9 
+site construction ∑ 23, 49 recommended for web how long will it take to 
+site structure ∑ 22 construction ∑ 24 rank? ∑ 11 
+web copy ∑ 17 robots.txt how they are determined ∑ 
+organic search results defined ∑ 24 40 
+defined ∑ 49 recommended for web how to get a high ranking 
+Overture construction ∑ 24 ∑ 41 
+keyword analysis tool ∑ 14 robots.txt file natural ∑ 8 
+defined ∑ 49 natural v PPC ∑ 9 
+rollovers organic ∑ 8 
+P standard recommended paid ∑ 8 
+PageRank for web construction ∑ Pay-Per-Click (PPC) ∑ 8 
+24 SEO 
+defined ∑ 49 chapter summary ∑ 10 
+PPC (Pay-Per-Click defined ∑ 50 
+advertising) S 
+defined ∑ 49 introduction ∑ 9 
+tip for understanding ∑ 9, 
+prominence Sandbox 17 
+defined ∑ 20 defined ∑ 49 SEO copywriter 
+publishing articles ∑ See Google Sandbox 
+article PR explained ∑ 11 defined ∑ 50 
+SEO tools 
+search engine recommended search-
+defined ∑ 50 related tools ∑ 43 
+Q search engine optimization ∑ 
+See SEO site history 
+questions ∑ 40 establishing ∑ 11 
+search engines site map 
+can I pay for a top defined ∑ 50 
+R ranking? ∑ 9 introduction ∑ 23 
+crawling ∑ 9 
+recommendations ∑ 23 
+rank criteria ∑ 9 site structure 
+defined ∑ 49 free v paid submission ∑ and multiple keywords ∑ 
+how long will it take to 12 22 
+how to submit your site ∑ 
+rank? ∑ 11 link paths ∑ 22 
+monitoring ∑ 37 12 optimizing ∑ 22 
+ranking importance ∑ 40 site map ∑ 22 
+overview ∑ 8 indexing ∑ 9 SPAM 
+introduction ∑ 8 
+rebuilding an existing site ∑ defined ∑ 50 
+25 natural search results ∑ 8 webmasters ∑ 33 
+reciprocal link organic search results ∑ 8 websites penalized ∑ 11 
+defined ∑ 49 paid listings ∑ 8 spider 
+reciprocal links ∑ See link results explained ∑ 8 defined ∑ 50 
+partners robots ∑ 9 spiders 
+relevance spiders ∑ 9 and links ∑ 18, 22, 48 
+links ∑ 10, 17, 27 Sponsored Links ∑ 8 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
+
+
+--------------------------------------- 56
+
+Index 56 
+how they traverse your U optimizing ∑ 17 
+site ∑ 18, 22, 48 using keywords ∑ 17 
+introduction ∑ 9 URL wordcount recommended ∑ 
+Sponsored Links defined ∑ 51 17 
+defined ∑ 50 URLs web copywriter 
+static URLs rebuilding an existing site defined ∑ 51 
+recommended for web ∑ 25 web design ∑ See web 
+construction ∑ 24 static recommended for construction, See web 
+structure ∑ See site structure web construction ∑ 24 construction 
+submit web pages 
+defined ∑ 50 one per keyword ∑ 18, 22 
+submitting your site to W webmaster 
+search engines defined ∑ 51 
+chapter summary ∑ 13 web construction wordcount 
+free v paid ∑ 12 301 redirects ∑ 25 defined ∑ 51 
+404 error handling ∑ 24 
+introduction ∑ 11 recommended ∑ 17 
+copy in graphics ∑ 24 words ∑ See web copy 
+doís ∑ 24 
+T doníts ∑ 24 WordTracker 
+keyword analysis tool ∑ 14 
+file structure ∑ 25 tips ∑ 14 
+tags ∑ See meta tags Flash ∑ 24 
+text ∑ See web copy frames ∑ 24 World Wide Web (WWW) 
+defined ∑ 51 
+text link HTML ∑ 24 writing ∑ See web copy 
+defined ∑ 51 JavaScript ∑ 24 
+text links ∑ See link optimizing ∑ 23, 49 
+popularity rebuilding or redesigning Y 
+theming an existing site ∑ 25 
+introduction ∑ 18, 22 Robots meta tag ∑ 24 Yahoo 
+Title meta tag robots.txt ∑ 24 how to submit your site ∑ 
+optimizing ∑ 20 standard rollovers and 12 
+tools CSS menu nav ∑ 24 submitting your site ∑ 11 
+recommended search-static URLs ∑ 24 
+related tools ∑ 43 URLs ∑ 25 
+tracking your progress ∑ See web copy 
+monitoring your progress defined ∑ 51 
+ 
+SEO Secrets V1.3  © Copyright Divine Write Copywriting Pty Ltd 
+
