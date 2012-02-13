@@ -17,7 +17,9 @@ def id_to_word(cnt, book, min_length=3, max_length=15):
             word = re.sub(r"[^a-zA-Z]", "", word).lower()
             if len(word) in xrange(min_length, max_length+1):
                 keywords.add(word)
-    return ["index"] + list(keywords)
+    keywords = list(keywords)
+    random.shuffle(keywords)
+    return ["index"] + keywords
 
 
 def generate_url(node, keywords, create_folder_at=None):
@@ -54,6 +56,9 @@ def generate_content(images, links, keyword, boost_num, book, min_content_length
         idx = random.randint(0, len(words) - 1)
         words.insert(idx, "<a href='%s'>" % link)
         words.insert(idx+2, "</a>")
+    for _ in xrange(1,5):
+        idx = random.randint(0, len(words) - 1)
+        words.insert(idx, "<br /><br />")
     return ' '.join(words)
 
 
@@ -87,7 +92,7 @@ def generate_site(tree, page_dict, sample_text_path, images,
         if main_url in links:
             links.remove(main_url)
             links.append("/")
-        text = re.sub(r"[^a-zA-Z0-9\.\s]", "", open(sample_text_path).read())
+        text = re.sub(r"[^a-zA-Z0-9\.\s\']", "", open(sample_text_path).read())
         content = generate_content(images, links, keyword, 30, text, 10000, climb)
         f = file(urls[node_id], 'w')
         f.write(template.render(content=content, title=f.name.split('.')[-2], climb=climb, links=links))
